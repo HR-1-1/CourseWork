@@ -20,9 +20,9 @@ NUM2: .db 0x01,0x02
 		LPM R1, Z
 		
 		ADD R0, R1
-		BRCC 0x0D
+		BRCC abc
 		ST X+, R0
-		ST X, R16
+abc:		ST X, R16
 NOP
 NUM1: .db 0xD3, 0x5F
 
