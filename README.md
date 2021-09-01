@@ -1,2 +1,2 @@
 # CourseWork
-Collection of various assignments given in courses at IITM
+Collection of various useful assignments given in courses at IIT-Madras.
